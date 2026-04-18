@@ -67,5 +67,5 @@ Terdapat 3 jenis layanan:
   "distanceType": "Intercity",
   "promo": "DISKON10"
 }
-
+```
 ## 📌 Endpoint
